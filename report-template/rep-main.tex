@@ -1,0 +1,28 @@
+\documentclass{repgost}
+
+\usepackage[cp1251]{inputenc}
+\usepackage[russian]{babel}
+
+%для борьбы с переполнениями за счет разреженных слов в абзаце
+\emergencystretch=25pt
+
+
+\usepackage{amsmath, amssymb, amsfonts}
+\usepackage{graphicx, epsfig}
+\usepackage[unicode,colorlinks]{hyperref}
+% \usepackage{refcheck}
+
+\begin{document}
+
+\include{rep-titlepage}
+\include{rep-executors}
+\include{rep-abstract}
+
+\newpage
+\tableofcontents
+
+\include{rep-text}
+\include{rep-bib}
+\include{rep-appendix}
+
+\end{document}
