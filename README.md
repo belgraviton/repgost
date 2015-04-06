@@ -21,6 +21,6 @@ Cтилевые файлы BibTeXa для офрмления списка лит
 
 ## Ссылки
 * [ГОСТ 7.32-2001 для отчёта по НИР: оформление НИР по ГОСТу в LaTeX (Записки дебианщика)](http://mydebianblog.blogspot.com/2008/09/732-2001-latex.html);
-* [Пакет для оформления отчетов G7-32](https://sites.google.com/a/mvkonnik.info/mike/Home/downloads/GOST7-32-2001.zip?attredirects=0);
+* [пакет для оформления отчетов G7-32](https://sites.google.com/a/mvkonnik.info/mike/Home/downloads/GOST7-32-2001.zip?attredirects=0);
 * [межгосударственный стандарт для оформления отчетов ГОСТ 7.32-2001 G7-32](http://txts.mgou.ru/library/stand/20.pdf);
 * [межгосударственный стандарт для оформления библиографии ГОСТ 7.1—2003 G7-32](https://ru.wikisource.org/wiki/%D0%93%D0%9E%D0%A1%D0%A2_7.1%E2%80%942003).
