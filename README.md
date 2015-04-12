@@ -9,7 +9,7 @@
 
 * [ТеХовский файл класса](https://github.com/belgraviton/repgost/releases/download/v1.0.2/repgost.cls)
 * [Руководство пользователя](https://github.com/belgraviton/repgost/releases/download/v1.0.2/man-thesisby.pdf)
-* [Шаблон диссертации](https://github.com/belgraviton/repgost/archive/v1.0.2.zip) (главный файл rep-main.tex)
+* [Шаблон отчета](https://github.com/belgraviton/repgost/archive/v1.0.2.zip) (главный файл rep-main.tex)
 
 ## BibTeX стили для отчетов
 
