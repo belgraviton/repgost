@@ -7,9 +7,9 @@
 
 ## Версия проекта 1.0.3 (версия класса 1.0.2):
 
-* [ТеХовский файл класса](https://github.com/belgraviton/repgost/releases/download/v1.0.2/repgost.cls)
-* [Руководство пользователя пакета thesisby](https://github.com/belgraviton/repgost/releases/download/v1.0.2/man-thesisby.pdf) (в особенности, раздел 4.3).
-* [Шаблон отчета](https://github.com/belgraviton/repgost/archive/v1.0.2.zip) (главный файл rep-main.tex)
+* [ТеХовский файл класса](https://github.com/belgraviton/repgost/releases/download/v1.0.3/repgost.cls)
+* [Руководство пользователя пакета thesisby](https://github.com/belgraviton/repgost/releases/download/v1.0.3/man-thesisby.pdf) (в особенности, раздел 4.3).
+* [Шаблон отчета](https://github.com/belgraviton/repgost/archive/v1.0.3.zip) (главный файл rep-main.tex)
 
 ## BibTeX стили для отчетов
 
